@@ -1,0 +1,7 @@
+
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "mutualalove",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-10-19"
+}
